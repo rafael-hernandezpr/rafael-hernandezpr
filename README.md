@@ -50,7 +50,6 @@ My current focus is Microsoft Azure, where I'm developing practical skills in de
 - PowerShell
 - Bicep
 - ARM Templates
-- Git & GitHub
 
 ---
 
