@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rafael Hernandez
 
-### Cloud Administration | Cloud Security | Networking
+### Cloud Administration | Cloud Security | Cloud Networking
 
 I'm building hands-on experience in **cloud infrastructure, administration, networking, and security**.
 
