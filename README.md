@@ -54,23 +54,23 @@ My current focus is Microsoft Azure, where I'm developing practical skills in de
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
-🎯 **Microsoft Certified: Azure Administrator Associate (AZ-104)**
+ **Microsoft Certified: Azure Administrator Associate (AZ-104)**
 
 Building a strong foundation in Azure administration before continuing deeper into **cloud security, identity, and Azure networking**.
 
 ---
 
-## 🧪 Hands-On Cloud Projects
+## Hands-On Cloud Projects
 
 I'm using this GitHub to document the environments I build and the problems I solve
 
-> 📌 Project repositories and documentation will be added as I complete each lab.
+>  Project repositories and documentation will be added as I complete each lab.
 
 ---
 
-## 🎯 Career Direction
+##  Career Direction
 
 I'm working toward a career focused on:
 
@@ -80,7 +80,7 @@ with strong skills in **Azure infrastructure, security, networking , and identit
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
-💼 LinkedIn: 
+LinkedIn: 
 https://www.linkedin.com/in/rafael-alejandro-
