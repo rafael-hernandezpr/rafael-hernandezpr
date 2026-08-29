@@ -1,16 +1,86 @@
-## Hi there 👋
+# 👋 Hi, I'm Rafael Hernandez
 
-<!--
-**rafael-hernandezpr/rafael-hernandezpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cloud Administration|Cloud Security |Networking
 
-Here are some ideas to get you started:
+I'm building hands-on experience in **cloud infrastructure, administration, networking, and security**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current focus is Microsoft Azure, where I'm developing practical skills in deploying, managing, securing, and troubleshooting cloud environments.
+
+---
+
+## What I'm Working On
+
+-  Building and managing Azure cloud infrastructure
+-  Configuring virtual networks, subnets, peering, and routing
+-  Implementing Network Security Groups and secure connectivity
+- Managing identity and access with Microsoft Entra ID & Azure RBAC
+- Securing Azure Storage
+- Deploying and managing Azure Virtual Machines
+- Monitoring and troubleshooting Azure resources
+
+---
+
+## 🛠️ Technologies & Skills
+
+**Cloud**
+- Microsoft Azure
+
+**Networking**
+- Virtual Networks (VNets)
+- Subnets & CIDR
+- Network Security Groups (NSGs)
+- Application Security Groups (ASGs)
+- VNet Peering
+- Private & Service Endpoints
+- Azure Bastion
+- Load Balancing
+- DNS
+
+**Security & Identity**
+- Microsoft Entra ID
+- Azure RBAC
+- Identity & Access Management
+- Azure Policy
+- Cloud Security
+- Network Security
+
+**Infrastructure**
+- Azure Virtual Machines
+- Azure Storage
+- PowerShell
+- Bicep
+- ARM Templates
+- Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+🎯 **Microsoft Certified: Azure Administrator Associate (AZ-104)**
+
+Building a strong foundation in Azure administration before continuing deeper into **cloud security, identity, and Azure networking**.
+
+---
+
+## 🧪 Hands-On Cloud Projects
+
+I'm using this GitHub to document the environments I build and the problems I solve
+
+> 📌 Project repositories and documentation will be added as I complete each lab.
+
+---
+
+## 🎯 Career Direction
+
+I'm working toward a career focused on:
+
+**Cloud Administration → Cloud Security → Security Engineering**
+
+with strong skills in **Azure infrastructure, security, networking , and identity**.
+
+---
+
+## 🤝 Connect With Me
+
+💼 LinkedIn: 
+https://www.linkedin.com/in/rafael-alejandro-
