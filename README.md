@@ -57,7 +57,7 @@ My current focus is Microsoft Azure, where I'm developing practical skills in de
 
  **Microsoft Certified: Azure Administrator Associate (AZ-104)**
 
-Building a strong foundation in Azure administration before continuing deeper into **cloud security, identity, and Azure networking**.
+Building a strong foundation in Azure administration before continuing deeper into **cloud security & cloud networking**
 
 ---
 
