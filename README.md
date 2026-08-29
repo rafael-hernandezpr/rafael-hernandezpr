@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rafael Hernandez
 
-### Cloud Administration| Cloud Security | Networking
+### Cloud Administration | Cloud Security | Networking
 
 I'm building hands-on experience in **cloud infrastructure, administration, networking, and security**.
 
@@ -20,7 +20,7 @@ My current focus is Microsoft Azure, where I'm developing practical skills in de
 
 ---
 
-## 🛠️ Technologies & Skills
+##  Technologies & Skills
 
 **Cloud**
 - Microsoft Azure
