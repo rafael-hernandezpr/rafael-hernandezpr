@@ -75,7 +75,7 @@ I'm working toward a career focused on:
 
 **Cloud Administration → Cloud Security → Security Engineering**
 
-with strong skills in **Azure infrastructure, security, networking , and identity**.
+with strong skills in **Azure infrastructure, security, networking, and identity**.
 
 ---
 
