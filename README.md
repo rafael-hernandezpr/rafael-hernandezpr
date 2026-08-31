@@ -63,9 +63,12 @@ Building a strong foundation in Azure administration before continuing deeper in
 
 ## Hands-On Cloud Projects
 
-I'm using this GitHub to document the environments I build and the problems I solve
+I'm using this GitHub to document the environments I build and the problems I solve.
 
->  Project repositories and documentation will be added as I complete each lab.
+- 🔐 [Azure Identity & Governance Lab](https://github.com/rafael-hernandezpr/azure-identity-governance-lab)
+- 📊 [Azure VM Monitoring & Alerting Lab](https://github.com/rafael-hernandezpr/azure-vm-monitoring-alerting-lab)
+
+> More projects will be added as I continue building and documenting hands-on Azure environments.
 
 ---
 
