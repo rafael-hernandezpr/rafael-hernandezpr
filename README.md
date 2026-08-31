@@ -65,8 +65,9 @@ Building a strong foundation in Azure administration before continuing deeper in
 
 I'm using this GitHub to document the environments I build and the problems I solve.
 
-- 🔐 [Azure Identity & Governance Lab](https://github.com/rafael-hernandezpr/azure-identity-governance-lab)
-- 📊 [Azure VM Monitoring & Alerting Lab](https://github.com/rafael-hernandezpr/azure-vm-monitoring-alerting-lab)
+- 🔐 [Azure Identity & Governance Project](https://github.com/rafael-hernandezpr/azure-identity-governance-project)
+- 📊 [Azure VM Performance Monitoring & Proactive Alerting](https://github.com/rafael-hernandezpr/azure-vm-monitoring-alerting-project)
+- 🔎 [Azure Log Collection & KQL Analysis](https://github.com/rafael-hernandezpr/azure-log-collection-kql-analysis-project)
 
 > More projects will be added as I continue building and documenting hands-on Azure environments.
 
