@@ -65,6 +65,7 @@ Building a strong foundation in Azure administration before continuing deeper in
 
 I'm using this GitHub to document the environments I build and the problems I solve.
 
+-  [Enterprise RBAC & Identity Lifecycle Project](https://github.com/rafael-hernandezpr/azure-administrator-projects/tree/main/01-manage-azure-identities-and-governance/enterprise-rbac-and-identity-lifecycle)
 -  [Azure Identity & Governance Project](https://github.com/rafael-hernandezpr/azure-administrator-projects/tree/main/01-manage-azure-identities-and-governance)
 -  [Azure Policy Governance & Compliance Project](https://github.com/rafael-hernandezpr/azure-administrator-projects/tree/main/01-manage-azure-identities-and-governance/azure-policy-governance-and-compliance)
 -  [Azure Secure Network Infrastructure Project](https://github.com/rafael-hernandezpr/azure-administrator-projects/tree/main/04-implement-and-manage-virtual-networking/azure-secure-network-infrastructure-project)
