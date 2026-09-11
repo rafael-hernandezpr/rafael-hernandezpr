@@ -69,6 +69,7 @@ I'm using this GitHub to document the environments I build and the problems I so
 -  [Azure Identity & Governance Project](https://github.com/rafael-hernandezpr/azure-administrator-projects/tree/main/01-manage-azure-identities-and-governance)
 -  [Azure Policy Governance & Compliance Project](https://github.com/rafael-hernandezpr/azure-administrator-projects/tree/main/01-manage-azure-identities-and-governance/azure-policy-governance-and-compliance)
 -  [Azure Secure Storage Administration Project](https://github.com/rafael-hernandezpr/azure-administrator-projects/tree/main/02-implement-and-manage-storage/azure-secure-storage-administration-v1)
+-  [Azure Storage Troubleshooting & Recovery Project](https://github.com/rafael-hernandezpr/azure-administrator-projects/tree/main/02-implement-and-manage-storage/azure-storage-troubleshooting-recovery-v2)
 -  [Azure Secure Network Infrastructure Project](https://github.com/rafael-hernandezpr/azure-administrator-projects/tree/main/04-implement-and-manage-virtual-networking/azure-secure-network-infrastructure-project)
 -  [Azure VM Performance Monitoring & Proactive Alerting Project](https://github.com/rafael-hernandezpr/azure-administrator-projects/tree/main/05-monitor-and-maintain-azure-resources/vm-performance-monitoring-alerting-project)
 -  [Azure Log Collection & KQL Analysis Project](https://github.com/rafael-hernandezpr/azure-administrator-projects/tree/main/05-monitor-and-maintain-azure-resources/log-collection-kql-analysis-project)
