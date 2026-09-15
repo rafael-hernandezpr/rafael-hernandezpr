@@ -2,7 +2,7 @@
 
 ### Cloud Administration & Cloud Security 
 
-I'm building hands-on experience in cloud infrastructure, administration, networking, and security.
+I'm building hands-on experience in cloud infrastructure, administration and security.
 
 My current focus is Microsoft Azure, where I'm developing practical skills in deploying, managing, securing, and troubleshooting cloud environments.
 
