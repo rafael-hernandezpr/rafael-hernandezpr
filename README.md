@@ -77,6 +77,14 @@ I'm using this GitHub to document the environments I build and the problems I so
 -  [Azure Log Collection & KQL Analysis Project](https://github.com/rafael-hernandezpr/azure-administrator-projects/tree/main/05-monitor-and-maintain-azure-resources/log-collection-kql-analysis-project)
 
 > More projects will be added as I continue building and documenting hands-on Azure environments.
+
+## Azure Break/Fix Labs
+
+These labs document hands-on Azure environments that I intentionally build, break, troubleshoot, and restore to strengthen real-world administration and incident-resolution skills.
+
+- [Backup Infrastructure & Protection Configuration - Break-Fix Lab](...)
+
+> More break/fix labs will be added as I continue testing Azure dependencies, permissions, backup, networking, monitoring, and recovery scenarios.
 ---
 
 ##  Career Direction
